@@ -182,11 +182,11 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #2ebaae !important;
+			color: #2e9cba !important;
 		}
 
 			a:hover:before {
-				color: #2ebaae !important;
+				color: #2e9cba !important;
 			}
 
 	strong, b {
@@ -1891,8 +1891,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 1px #2ebaae;
-			color: #2ebaae !important;
+			box-shadow: inset 0 0 0 1px #2e9cba;
+			color: #2e9cba !important;
 		}
 
 			input[type="submit"]:hover:active,
@@ -1900,7 +1900,7 @@ input, select, textarea {
 			input[type="button"]:hover:active,
 			button:hover:active,
 			.button:hover:active {
-				background-color: rgba(46, 186, 174, 0.05);
+				background-color: rgba(46, 156, 186, 0.05);
 			}
 
 		input[type="submit"]:before, input[type="submit"]:after,
@@ -2070,8 +2070,8 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #2ebaae;
-			box-shadow: inset 0 0 0 1px #2ebaae;
+			border-color: #2e9cba;
+			box-shadow: inset 0 0 0 1px #2e9cba;
 		}
 
 	.select-wrapper {
@@ -3498,7 +3498,7 @@ input, select, textarea {
 	}
 
 	#footer .copyright {
-		color: #2b2e38;
+		color: #aaaaaa;
 		font-family: "Raleway", Helvetica, sans-serif;
 		font-size: 0.5em;
 		font-weight: 400;
@@ -3585,7 +3585,7 @@ input, select, textarea {
 					}
 
 					#menu .links > li a:hover h3 {
-						color: #2ebaae;
+						color: #2e9cba;
 					}
 
 				#menu .links > li:first-child {
