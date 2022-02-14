@@ -56,7 +56,7 @@ body {
 }
 
 mark {
-	background-color: transparent;
+	background-color: transparen;
 	color: inherit;
 }
 
@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f4f4f4;
+		background: #2b2e38;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -203,7 +203,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3c3b3b;
+		color: #ffffff;
 		font-family: "Raleway", Helvetica, sans-serif;
 		font-weight: 800;
 		letter-spacing: 0.25em;
