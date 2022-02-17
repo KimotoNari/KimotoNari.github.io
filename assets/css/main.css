@@ -3478,6 +3478,7 @@ input, select, textarea {
 
 body.single #four {
 	text-align: center;
+	font-size: 2em;
 }
 
 #four .logo {
