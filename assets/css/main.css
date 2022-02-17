@@ -3474,6 +3474,20 @@ input, select, textarea {
 			}
 
 	}
+/* 404 center title */
+
+body.single #four {
+	text-align: center;
+}
+
+#four .logo {
+	border-bottom: 0;
+	display: inline-block;
+	margin: 0 0 1em 0;
+	overflow: hidden;
+	position: relative;
+	width: 4em;
+}
 
 /* Footer */
 
