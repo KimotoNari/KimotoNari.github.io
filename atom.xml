@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>KotoNari Design</title>
+    <subtitle>This is a personal website to showcase projects and other hobbies</subtitle>
+    <link href="https://kotonari.design/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://kotonari.design"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-14T08:50:45+00:00</updated>
+    <id>https://kotonari.design/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Khiem Nguyen</title>
+        <published>2023-11-14T08:50:45+00:00</published>
+        <updated>2023-11-14T08:50:45+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://kotonari.design/authors/kotonari/" type="text/html"/>
+        <id>https://kotonari.design/authors/kotonari/</id>
+        
+        <content type="html">&lt;p&gt;Computer Science Student.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kimotonari&quot;&gt;@kimotonari&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
